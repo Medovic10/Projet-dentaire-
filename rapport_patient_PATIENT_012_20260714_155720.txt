@@ -1,0 +1,34 @@
+o======================================================================
+                     COMPTE-RENDU RADIOLOGIQUE IA
+======================================================================
+Établi par : Cabinet Dentaire IA - PFA
+Date de l'examen : 14/07/2026 à 15:57
+Dossier Patient : PATIENT_012
+----------------------------------------------------------------------
+1. RÉSULTATS DE L'ANALYSE PAR VISION PAR ORDINATEUR (ResNet-50)
+----------------------------------------------------------------------
+> Diagnostic principal : DENT_FRACTUREE
+> Indice de confiance  : 88.50%
+> Localisation Grad-CAM: Carte d'activation validée et jointe au dossier.
+
+----------------------------------------------------------------------
+2. CONTEXTE CLINIQUE & SYMPTÔMES
+----------------------------------------------------------------------
+> Symptômes initiaux : Douleur aiguë à la mastication et sensibilité au froid sur la molaire 46.
+> Historique / Soins : Pose d'un pansement sédatif provisoire lors de la dernière urgence.
+
+----------------------------------------------------------------------
+3. SYNTHÈSE & PROPOSITION THÉRAPEUTIQUE AUTOMATISÉE
+----------------------------------------------------------------------
+Analyse :
+La détection radiologique met en évidence une pathologie compatible avec 
+une classe 'Dent_fracturee'. Ce résultat radiologique doit être corrélé 
+avec l'examen clinique en fauteuil (sondage, tests de vitalité).
+
+Protocole thérapeutique recommandé :
+* Évaluation radiologique de la ligne de fracture (conforme au marquage Grad-CAM). Si fracture coronaire simple : reconstitution composite ou pose de couronne. Si atteinte radiculaire : extraction à envisager.
+
+======================================================================
+* Note : Ce compte-rendu est généré par un système d'assistance IA (Projet PFA) 
+  et nécessite la validation d'un chirurgien-dentiste diplômé.
+======================================================================

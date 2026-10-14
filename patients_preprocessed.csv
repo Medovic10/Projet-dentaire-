@@ -1,0 +1,74 @@
+﻿Dossier_Patient;Nombre_Radios;Diagnostic_Principal;Notes_Cliniques;Normal;Carie;Fracture;Lesion_periapicale;Perte_osseuse;Pulpite_aigue;Maladie_parodontale
+PATIENT40;4;Carie, Pulpite_aigue;"- Carie : Lésion carieuse profonde suspectée au niveau amélo-dentinaire.
+- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.";0;1;0;0;0;1;0
+PATIENT 1;7;Carie, Pulpite_aigue;"- Carie : Mise en évidence d'une perte de substance coronaire radiotransparente évocatrice d'une lésion carieuse active.
+- Pulpite_aigue : Atteinte pulpaire profonde et douloureuse nécessitant une biopulpectomie.";0;1;0;0;0;1;0
+PATIENT 2;2;Carie, Pulpite_aigue;"- Carie : Lésion carieuse profonde suspectée au niveau amélo-dentinaire.
+- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.";0;1;0;0;0;1;0
+PATIENT 3;5;Perte_osseuse;- Perte_osseuse : Résorption osseuse alvéolaire de type horizontal modérée.;0;0;0;0;1;0;0
+PATIENT 4;14;Pulpite_aigue, Carie;"- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.
+- Carie : Mise en évidence d'une perte de substance coronaire radiotransparente évocatrice d'une lésion carieuse active.";0;1;0;0;0;1;0
+PATIENT 5;8;Fracture;- Fracture : Mise en évidence d'un trait de fracture coronaire net avec atteinte possible de la chambre pulpaire.;0;0;1;0;0;0;0
+PATIENT 6;17;Pulpite_aigue;- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.;0;0;0;0;0;1;0
+PATIENT 7;5;Pulpite_aigue, Fracture;"- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.
+- Fracture : Mise en évidence d'un trait de fracture coronaire net avec atteinte possible de la chambre pulpaire.";0;0;1;0;0;1;0
+PATIENT 8;8;Pulpite_aigue, Lesion_periapicale, Fracture;"- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.
+- Lesion_periapicale : Raréfaction osseuse péri-apicale marquée nécessitant un retraitement canalaire.
+- Fracture : Fracture coronaire partielle suite à un traumatisme, limites cervicales saines.";0;0;1;1;0;1;0
+PATIENT 9;10;Pulpite_aigue, Fracture;"- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.
+- Fracture : Fêlure/fracture visible sur la face mésio-distale, intégrité radiculaire à surveiller.";0;0;1;0;0;1;0
+PATIENT 10;8;Pulpite_aigue, Fracture;"- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.
+- Fracture : Fêlure/fracture visible sur la face mésio-distale, intégrité radiculaire à surveiller.";0;0;1;0;0;1;0
+PATIENT 11;5;Pulpite_aigue, Fracture;"- Pulpite_aigue : Atteinte pulpaire profonde et douloureuse nécessitant une biopulpectomie.
+- Fracture : Mise en évidence d'un trait de fracture coronaire net avec atteinte possible de la chambre pulpaire.";0;0;1;0;0;1;0
+PATIENT 12;18;Pulpite_aigue, Lesion_periapicale;"- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.
+- Lesion_periapicale : Image radioclaire péri-apicale bien délimitée traduisant une ostéite péri-radiculaire d'origine endodontique.";0;0;0;1;0;1;0
+PATIENT 13;12;Pulpite_aigue, Lesion_periapicale;"- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.
+- Lesion_periapicale : Lésion d'origine endodontique (LIPOE) visible à l'apex de la racine.";0;0;0;1;0;1;0
+PATIENT 14;29;Pulpite_aigue, Lesion_periapicale;"- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.
+- Lesion_periapicale : Lésion d'origine endodontique (LIPOE) visible à l'apex de la racine.";0;0;0;1;0;1;0
+PATIENT 15;8;Carie, Pulpite_aigue;"- Carie : Lésion carieuse profonde suspectée au niveau amélo-dentinaire.
+- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.";0;1;0;0;0;1;0
+PATIENT 16;1;Carie;- Carie : Zone d'ombre radiologique coronaire confirmant une reprise de carie sous-jacente.;0;1;0;0;0;0;0
+PATIENT 17;32;Carie, Pulpite_aigue, Lesion_periapicale, Fracture;"- Carie : Zone d'ombre radiologique coronaire confirmant une reprise de carie sous-jacente.
+- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.
+- Lesion_periapicale : Image radioclaire péri-apicale bien délimitée traduisant une ostéite péri-radiculaire d'origine endodontique.
+- Fracture : Fêlure/fracture visible sur la face mésio-distale, intégrité radiculaire à surveiller.";0;1;1;1;0;1;0
+PATIENT 18;13;Carie, Pulpite_aigue;"- Carie : Lésion carieuse profonde suspectée au niveau amélo-dentinaire.
+- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.";0;1;0;0;0;1;0
+PATIENT 19;35;Carie, Pulpite_aigue;"- Carie : Mise en évidence d'une perte de substance coronaire radiotransparente évocatrice d'une lésion carieuse active.
+- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.";0;1;0;0;0;1;0
+PATIENT 20;4;Carie;- Carie : Lésion carieuse profonde suspectée au niveau amélo-dentinaire.;0;1;0;0;0;0;0
+PATIENT 21;1;Normal;- Normal : Intégrité coronaire et radiculaire conservée. Pas de foyer infectieux visible.;1;0;0;0;0;0;0
+PATIENT 22;19;Carie, Pulpite_aigue, Fracture;"- Carie : Mise en évidence d'une perte de substance coronaire radiotransparente évocatrice d'une lésion carieuse active.
+- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.
+- Fracture : Fêlure/fracture visible sur la face mésio-distale, intégrité radiculaire à surveiller.";0;1;1;0;0;1;0
+PATIENT 23;3;Fracture;- Fracture : Fracture coronaire partielle suite à un traumatisme, limites cervicales saines.;0;0;1;0;0;0;0
+PATIENT 24;5;Perte_osseuse;- Perte_osseuse : Perte de hauteur de la crête osseuse alvéolaire avec élargissement de l'espace desmodontal.;0;0;0;0;1;0;0
+PATIENT 25;22;Pulpite_aigue, Lesion_periapicale, Carie;"- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.
+- Lesion_periapicale : Image radioclaire péri-apicale bien délimitée traduisant une ostéite péri-radiculaire d'origine endodontique.
+- Carie : Mise en évidence d'une perte de substance coronaire radiotransparente évocatrice d'une lésion carieuse active.";0;1;0;1;0;1;0
+PATIENT 26;3;Normal;- Normal : Examen clinique normal. Absence d'anomalie visible ou de lésion active. Tissus parodontaux sains.;1;0;0;0;0;0;0
+PATIENT 27;123;Fracture, Pulpite_aigue, Lesion_periapicale;"- Fracture : Fracture coronaire partielle suite à un traumatisme, limites cervicales saines.
+- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.
+- Lesion_periapicale : Lésion d'origine endodontique (LIPOE) visible à l'apex de la racine.";0;0;1;1;0;1;0
+PATIENT 28;1;Normal;- Normal : Intégrité coronaire et radiculaire conservée. Pas de foyer infectieux visible.;1;0;0;0;0;0;0
+PATIENT 29;2;Pulpite_aigue;- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.;0;0;0;0;0;1;0
+PATIENT 30;4;Normal;- Normal : Intégrité coronaire et radiculaire conservée. Pas de foyer infectieux visible.;1;0;0;0;0;0;0
+PATIENT 31;32;Carie, Fracture, Pulpite_aigue;"- Carie : Lésion carieuse profonde suspectée au niveau amélo-dentinaire.
+- Fracture : Mise en évidence d'un trait de fracture coronaire net avec atteinte possible de la chambre pulpaire.
+- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.";0;1;1;0;0;1;0
+PATIENT 32;11;Pulpite_aigue;- Pulpite_aigue : Symptomatologie compatible avec une inflammation pulpaire irréversible (pulpite aiguë). Traitement d'urgence requis.;0;0;0;0;0;1;0
+PATIENT 33;2;Lesion_periapicale;- Lesion_periapicale : Lésion d'origine endodontique (LIPOE) visible à l'apex de la racine.;0;0;0;1;0;0;0
+PATIENT 34;2;Fracture;- Fracture : Fêlure/fracture visible sur la face mésio-distale, intégrité radiculaire à surveiller.;0;0;1;0;0;0;0
+PATIENT 35;6;Lesion_periapicale;- Lesion_periapicale : Lésion d'origine endodontique (LIPOE) visible à l'apex de la racine.;0;0;0;1;0;0;0
+PATIENT 36;9;Pulpite_aigue, Perte_osseuse, Lesion_periapicale, Carie;"- Pulpite_aigue : Atteinte pulpaire profonde et douloureuse nécessitant une biopulpectomie.
+- Perte_osseuse : Perte de hauteur de la crête osseuse alvéolaire avec élargissement de l'espace desmodontal.
+- Lesion_periapicale : Raréfaction osseuse péri-apicale marquée nécessitant un retraitement canalaire.
+- Carie : Lésion carieuse profonde suspectée au niveau amélo-dentinaire.";0;1;0;1;1;1;0
+PATIENT 37;9;Pulpite_aigue, Lesion_periapicale;"- Pulpite_aigue : Atteinte pulpaire profonde et douloureuse nécessitant une biopulpectomie.
+- Lesion_periapicale : Image radioclaire péri-apicale bien délimitée traduisant une ostéite péri-radiculaire d'origine endodontique.";0;0;0;1;0;1;0
+PATIENT 38;85;Carie, Pulpite_aigue;"- Carie : Lésion carieuse profonde suspectée au niveau amélo-dentinaire.
+- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.";0;1;0;0;0;1;0
+PATIENT 39;16;Fracture, Pulpite_aigue;"- Fracture : Fêlure/fracture visible sur la face mésio-distale, intégrité radiculaire à surveiller.
+- Pulpite_aigue : Hyperémie pulpaire sévère secondaire à une complication carieuse.";0;0;1;0;0;1;0
